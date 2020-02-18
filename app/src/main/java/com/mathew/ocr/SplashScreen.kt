@@ -7,7 +7,7 @@ import android.os.CountDownTimer
 import androidx.appcompat.app.AppCompatActivity
 
 class SplashScreen : AppCompatActivity() {
-//first change 123
+//first change 123456
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
