@@ -21,6 +21,7 @@ class SplashScreen : AppCompatActivity() {
                 //Intent intent = new Intent(getBaseContext(), HomeActivity.class);
                 /** Creates a new activity, on finishing this timer  */
                 startActivity(intent)
+
                 /** Close this activity screen  */
                 finish()
             }
